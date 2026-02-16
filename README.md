@@ -4,13 +4,13 @@ A modern, responsive single-page portfolio website to showcase experience, proje
 
 ## Getting started
 
-Open `index.html` in your browser or serve the directory with a simple static server, for example:
+Open `index.html` in your browser or serve the directory with the helper script:
 
 ```bash
-python -m http.server 8000
+./run.sh 8000
 ```
 
-Then visit <http://localhost:8000>.
+Then visit <http://localhost:8000> (replace the port if you supply a different value).
 
 ## Features
 
